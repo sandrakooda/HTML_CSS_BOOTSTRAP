@@ -1,0 +1,11 @@
+div{
+    background-color:pink;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blueviolet;
+}
+.btn btn-primary
+{
+    color: aliceblue;
+    background-color: rgb(104, 104, 186);
+}
